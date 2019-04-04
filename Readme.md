@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Products.cs](./CS/App_Code/Products.cs) (VB: [Products.vb](./VB/App_Code/Products.vb))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
 <!-- default file list end -->
