@@ -7,6 +7,9 @@
 * [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
 <!-- default file list end -->
 # Display ASPxGridView's visible data in WebChartControl without whole page refreshing
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t552552/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to make WebChartControl display only data that is visible in the grid. WebChartControl and ASPxGridView are placed in the UpdatePanel to avoid refreshing the whole page. </p>
